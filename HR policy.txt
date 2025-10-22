@@ -1,0 +1,248 @@
+XYZ Company
+Human Resources Policy Manual
+Version: 1.0
+Effective Date: 22 October 2025
+Review Date: 22 October 2026
+Policy Owner: Head of Human Resources (HR)
+Approved by: Chief Executive Officer (CEO)
+Confidential — For internal use only
+Table of Contents
+1.	Purpose and Objectives
+2.	Scope and Applicability
+3.	Policy Governance, Review and Amendments
+4.	Definitions and Abbreviations
+5.	Roles & Responsibilities
+6.	Employment Types and Workforce Classification
+7.	Recruitment, Selection and Background Checks
+8.	Offer, Appointment and Onboarding
+9.	Probation, Confirmation and Probation Extension
+10.	Working Hours, Attendance, Overtime and Flexi work
+11.	Leave, Holidays and Time off Policies
+12.	Compensation, Payroll and Benefits Administration
+13.	Statutory Compliance (India) — Social Security and Labour Laws
+14.	Performance Management, Promotions and Increments
+15.	Learning, Development and Career Progression
+16.	Code of Conduct, Ethics and Conflict of Interest
+17.	Prevention of Sexual Harassment (POSH)
+18.	Discipline, Grievance Redressal and Whistleblower Protection
+19.	Termination, Resignation, Exit Formalities and Final Settlement
+20.	Employee Data Privacy, Records and Retention
+21.	Health, Safety and Wellbeing
+22.	Employee Travel, Expenses and Relocation
+23.	IT & Acceptable Use (Reference to IT Policy)
+24.	Non Compete, Confidentiality and Intellectual Property
+25.	Contract/Third party/Agency Workers and Interns
+26.	Employee Recognition, Rewards and Employee Engagement
+27.	HR Systems, Reporting and Metrics
+28.	Policy Enforcement and Sanctions
+29.	Annexures, Templates and Forms (available on request)
+30.	References and Legal Framework
+31.	Purpose and Objectives
+This Human Resources Policy Manual sets out XYZ Company’s principles, standards and procedures for managing human resources across all India locations. The objectives are:
+•	To attract, retain and develop a high performing workforce aligned to company values and business objectives.
+•	To ensure fair, consistent, transparent and legally compliant HR practices across the employee lifecycle.
+•	To define roles, accountabilities and governance for HR processes.
+•	To promote a safe, respectful, inclusive and productive workplace.
+This Manual contains mandatory policy statements. Operational procedures, forms and manager checklists are maintained separately in the HRIS or HR shared drive.
+1.	Scope and Applicability
+This policy applies to:
+•	All employees of XYZ Company India (full time, part time).
+•	Fixed term and contract employees directly engaged by the Company.
+•	Interns, apprentices and trainees engaged under written agreements.
+•	Third party/vendor/agency workers working on XYZ premises or under XYZ direction (subject to vendor contract).
+•	Board members or executives where not governed by a separate agreement (unless explicitly stated otherwise).
+Where there is a conflict between this Manual and applicable law, the law prevails. State level Shops & Establishment rules and other local statutory provisions will be applied where relevant.
+1.	Policy Governance, Review and Amendments
+•	Policy Owner: Head of HR is responsible for interpreting, updating and implementing this policy.
+•	Review Cycle: Annual review or earlier in response to legislative change, major incidents or business transformation.
+•	Amendment Process: Material changes require HR leadership and CEO approval, and will be communicated to staff with updated training where necessary.
+•	Exceptions: Temporary exceptions must be documented, justified, and approved by Head of HR. All exceptions are time bound and reviewed regularly.
+1.	Definitions and Abbreviations
+•	Employee: Any person on XYZ payroll.
+•	Probation: Initial assessment period following joining.
+•	EL: Earned / Privilege Leave.
+•	CL: Casual Leave.
+•	SL: Sick Leave.
+•	POSH: Prevention of Sexual Harassment at Workplace Act and rules.
+•	HRIS: Human Resources Information System.
+(Complete glossary available on request.)
+1.	Roles & Responsibilities
+•	Head of HR: Policy owner, HR strategy, compliance oversight.
+•	HR Business Partners: Recruitment, employee relations, HR operational delivery.
+•	Line Managers: Performance management, approvals, escalation, people development.
+•	Employees: Compliance with policy, timely communication of issues, professional conduct.
+•	Legal & Compliance: Support on statutory matters and internal investigations.
+1.	Employment Types and Workforce Classification
+6.1 Employment Categories
+•	Permanent / Regular employees: Engaged on an ongoing basis and eligible for full benefits and statutory contributions.
+•	Fixed term employees: Engaged for a defined period; benefits and entitlements defined in contract.
+•	Contract / agency workers: Employed by third party vendors; vendor responsible for statutory compliance; XYZ sets minimum contractual standards.
+•	Interns / Apprentices: Time bound engagements with defined scope and limited benefits.
+•	Consultants / Contractors: Engaged under service agreements with defined deliverables.
+6.2 Employment Records
+A personnel record (electronic and/or physical) will be maintained for each employee containing appointment letters, statutory forms, identity verification, educational documents and other onboarding documentation.
+1.	Recruitment, Selection and Background Checks
+7.1 Recruitment Principles
+•	Equal opportunity employer: hiring based on merit, competency and organizational need.
+•	All hires must follow an approved requisition and budgeted headcount process.
+7.2 Selection Process
+•	Standard process: requisition → shortlisting → interviews → reference/background checks → offer.
+•	Interview panels should include at least one HR representative and should aim for fairness and diversity.
+7.3 Pre employment Checks
+•	Background verification (identity, employment, education, criminal checks where permissible) is mandatory and conditional to the offer.
+•	Candidate consent is required; adverse results may lead to withdrawal of the offer.
+1.	Offer, Appointment and Onboarding
+8.1 Offer Letters and Employment Contracts
+•	Formal written offers outline position, compensation, probation, notice period, confidentiality and statutory terms. Verbal offers are not binding.
+8.2 Onboarding
+•	HR manages document verification, statutory registrations (PF/ESI where applicable), IT and security provisioning, orientation and mandatory trainings within the first 30 days.
+8.3 Induction
+•	Managers must conduct structured 30/60/90 day reviews and provide feedback on performance and fit.
+1.	Probation, Confirmation and Probation Extension
+9.1 Probation Period
+•	Standard probation is 6 months unless contract specifies otherwise.
+9.2 Confirmation
+•	Confirmation is subject to satisfactory performance and HR/manager sign off.
+9.3 Extension
+•	Probation may be extended up to 3 months for documented reasons with written notification.
+1.	Working Hours, Attendance, Overtime and Flexi work
+10.1 Working Hours
+•	Standard office hours and shift patterns will be notified by location. Core hours and flexible models may apply as per team arrangement.
+10.2 Attendance
+•	Attendance is recorded via the HRIS/attendance system. Manipulation or fraudulent reporting is misconduct.
+10.3 Overtime and Compensatory Off
+•	Overtime for non exempt staff is compensated per statutory rules or provided as compensatory time off with manager pre approval except in emergencies.
+10.4 Flexible & Remote Work
+•	Hybrid and remote work arrangements may be allowed subject to role suitability, manager approval and operational needs.
+1.	Leave, Holidays and Time off Policies
+11.1 Annual Holiday Calendar
+•	An annual holiday calendar listing national and local holidays will be published for each location.
+11.2 Leave Types & Entitlements (typical framework)
+•	Earned / Privilege Leave (EL): accrual and carry forward rules defined locally (e.g., 18 days/year with carry forward cap).
+•	Casual Leave (CL): short notice personal leave (e.g., 8 days/year).
+•	Sick Leave (SL): medical leave entitlement (e.g., 12 days/year); medical certificate required for extended absence.
+•	Maternity Leave: as per Maternity Benefit Act (current statutory entitlements apply).
+•	Paternity Leave: company provides paid paternity leave per policy (e.g., up to 15 working days).
+•	Bereavement / Compassionate Leave: paid leave for immediate family bereavement (e.g., up to 5 working days).
+•	Unpaid Leave and Sabbaticals: discretionary and subject to approval.
+•	Other statutory leaves: adoption, surrogacy, etc., per law.
+11.3 Leave Administration
+•	Leaves to be applied via HRIS or prescribed form with adequate notice. Emergency leave should be communicated promptly.
+1.	Compensation, Payroll and Benefits Administration
+12.1 Salary Structure
+•	Salaries comprise fixed and variable components; breakdown provided in appointment letter.
+12.2 Payroll
+•	Salaries paid on scheduled dates by bank transfer after statutory deductions; payslips issued electronically.
+12.3 Increments and Bonuses
+•	Annual increments and variable pay determined based on performance, market benchmarks and business performance.
+12.4 Advances and Loans
+•	Salary advances in emergencies can be provided subject to approval and repayment terms.
+1.	Statutory Compliance (India)
+13.1 Overview
+•	XYZ complies with applicable Indian employment laws (EPF, ESI, Gratuity, Payment of Wages, Shops & Establishment, POSH, Contract Labour Act where applicable, Income Tax).
+13.2 PF & ESI
+•	Deductions and employer contributions processed per prevailing statutory rates. Employees will receive PF account details and contribution statements.
+13.3 Gratuity
+•	Gratuity as per Payment of Gratuity Act for eligible employees (generally after 5 years of continuous service).
+1.	Performance Management, Promotions and Increments
+14.1 Performance Cycle
+•	Annual performance reviews with periodic check ins and mid year reviews.
+14.2 Appraisals and Ratings
+•	Process includes self assessment, manager review and calibration. Ratings influence promotions, increments and variable payouts.
+14.3 PIP
+•	Underperforming employees may be placed on a Performance Improvement Plan (PIP) with defined objectives and timelines.
+14.4 Promotions and Transfers
+•	Promotions based on merit; internal transfers subject to line manager and HR approval.
+1.	Learning, Development and Career Progression
+15.1 Training
+•	Induction and mandatory compliance trainings offered; role based technical and soft skills training supported.
+15.2 Career Development
+•	Employees encouraged to seek development opportunities; high potential employees included in succession planning.
+1.	Code of Conduct, Ethics and Conflict of Interest
+16.1 Code of Conduct
+•	Employees expected to act ethically and professionally; fraud, falsification of records, theft and misuse of company property are strictly prohibited.
+16.2 Conflicts of Interest and Gifts
+•	Employees must disclose conflicts of interest and must not accept gifts that could influence business decisions beyond nominal thresholds.
+1.	Prevention of Sexual Harassment (POSH)
+17.1 Policy Commitment
+•	XYZ provides a workplace free from sexual harassment in line with the POSH Act.
+17.2 Internal Complaints Committee (ICC)
+•	An ICC is constituted in accordance with the law. Employees can lodge complaints in writing; investigations are confidential and timely.
+17.3 Training & Awareness
+•	Mandatory POSH training will be provided annually.
+1.	Discipline, Grievance Redressal and Whistleblower Protection
+18.1 Disciplinary Process
+•	Discipline is applied proportionately, from counseling to termination depending on severity. Serious misconduct may result in summary action.
+18.2 Grievance Mechanism
+•	Employees should raise grievances with their manager or HR. Unresolved matters escalate through HR for formal resolution.
+18.3 Whistleblower Policy
+•	A secure channel exists for reporting unethical conduct. Retaliation against whistleblowers is prohibited.
+1.	Termination, Resignation, Exit Formalities and Final Settlement
+19.1 Notice Periods
+•	Notice periods as per appointment letters and statutory norms (often 1–3 months depending on role).
+19.2 Termination
+•	Termination may be for cause or without cause; due process followed for disciplinary or performance based terminations.
+19.3 Resignation and Exit
+•	Employees must provide written resignation; knowledge transfer and handover must be completed. Exit clearance includes return of company property and access revocation.
+19.4 Final Settlement
+•	Final dues processed within a reasonable timeline (target 30–45 working days) subject to statutory timelines.
+19.5 Rehire
+•	Former employees may be rehired subject to eligibility and business requirement.
+1.	Employee Data Privacy, Records and Retention
+20.1 Data Handling
+•	HR collects and processes personal data for employment purposes. Processing is limited, purposeful and compliant with applicable data protection obligations.
+20.2 Access and Confidentiality
+•	Access to personnel records is restricted; HR will obtain consent if required for any processing outside normal purposes.
+20.3 Retention
+•	Records retained per statutory requirements (payroll, tax records, etc.) and company retention schedule.
+1.	Health, Safety and Wellbeing
+21.1 Workplace Safety
+•	XYZ provides a safe working environment and complies with safety norms. Employees must follow safety procedures and report hazards.
+21.2 Occupational Health
+•	Facilities for first aid; periodic medical checks for roles with health risks.
+21.3 Wellbeing & EAP
+•	Access to Employee Assistance Programs and wellbeing initiatives available.
+21.4 Emergencies
+•	Business continuity and emergency response protocols will be maintained and tested.
+1.	Employee Travel, Expenses and Relocation
+22.1 Travel Approvals
+•	Official travel pre approved and booked per policy with preferred vendors.
+22.2 Expense Claims
+•	Reimbursements require original receipts and submission via HRIS within timelines.
+22.3 Relocation
+•	Company initiated relocation managed under relocation policy including support for transit, temporary accommodation and settlement assistance.
+1.	IT & Acceptable Use
+•	Employees must adhere to the Company’s IT Acceptable Use Policy for email, internet, devices and data. Misuse may result in disciplinary action.
+1.	Non Compete, Confidentiality and Intellectual Property
+24.1 Confidentiality
+•	Employees sign confidentiality obligations covering business information during and post employment.
+24.2 Intellectual Property
+•	IP created during employment vests in the Company as per employment agreement and applicable law.
+24.3 Restrictive Covenants
+•	Post employment restrictions (non compete/non solicit) may apply to certain roles and will be enforceable only to the extent permitted by applicable law.
+1.	Contract/Third party/Agency Workers and Interns
+25.1 Agency Workers
+•	Vendors supplying manpower must comply with statutory provisions; XYZ includes minimum contractual standards and audits vendor compliance.
+25.2 Interns / Apprentices
+•	Interns engaged under agreements; stipend and responsibilities defined; not normally entitled to full employee benefits.
+25.3 Consultants
+•	Consultants engaged under service agreements with clear deliverables, confidentiality and payment terms.
+1.	Employee Recognition, Rewards and Employee Engagement
+26.1 Recognition Programs
+•	Formal recognition (spot awards, service awards) to encourage performance and engagement.
+26.2 Engagement
+•	Pulse surveys, town halls and action plans to maintain employee engagement.
+1.	HR Systems, Reporting and Metrics
+•	Employee data maintained in HRIS. Key metrics include headcount, attrition, time to hire, training hours, leave utilization and engagement scores. Dashboards shared with leadership periodically.
+1.	Policy Enforcement and Sanctions
+•	Violations of this Manual may result in disciplinary action. HR and Legal will advise on serious breaches. Employees may appeal disciplinary decisions through the grievance process.
+1.	Annexures, Templates and Forms (available on request)
+•	Standard templates (offer letter, resignation acceptance, PIP, leave forms, grievance form, and others) are maintained in HRIS and available upon request.
+1.	References and Legal Framework
+•	This Manual is guided by applicable Indian laws including but not limited to EPF, ESI, Payment of Gratuity Act, Maternity Benefit Act, POSH Act, Shops & Establishment Acts (state specific), Contract Labour Act (where applicable), Code on Wages and Income Tax laws. HR will maintain updated references and statutory guidance.
+Implementation & Next Steps
+•	Publish the Manual on internal HR portal and circulate to all employees for acknowledgement.
+•	Conduct manager briefing sessions and employee awareness communications on key policies (POSH, code of conduct, leave, performance).
+•	Ensure HR operational procedures and templates are aligned with this Manual and accessible in HRIS.
+Disclaimer
+This Manual is an internal governance document and does not constitute a contract of employment. Individual employment terms are set out in the employment agreement. Where statutory entitlements differ from Company policy, statutory entitlements prevail.
